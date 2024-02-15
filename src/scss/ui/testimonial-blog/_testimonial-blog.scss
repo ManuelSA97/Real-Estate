@@ -15,7 +15,7 @@
 
     &__heading{
         @include m.heading(true);
-
+        text-transform: capitalize;
     }
 }
 
