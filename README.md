@@ -1,0 +1,1 @@
+Landing Page sobre un sitio de Real Estate, utilizando Javascript para efectos de scrolling en las imágene de la galería, Creada con HTML, SCSS y Javascript, utilizando BEM y GULP. Sitio: https://realestate-jmsa.netlify.app/
